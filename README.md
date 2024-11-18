@@ -14,11 +14,11 @@ https://zenn.dev/nok_c7/scraps/562b8530bfc65f
 
 ## 2. Azure Function
 - Deploy in local
-'''
+```
 http://localhost:7071/api/HttpTriggerTest
-'''
+```
 
 - Deploy in Azure environment
-'''
+```
 https://azure-function-test.azurewebsites.net/api/HttpTriggerTest
-'''
+```
